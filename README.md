@@ -9,7 +9,7 @@ I am a Full-stack Developer 👨‍💻 || Back-end Developer || Front-end Devel
 
 
 ## I'm Eyosiyas Assefa 😉
-- 👨🏻‍💻 I am learning **Full-Stack Software Developement** at [ALX Bootcamp.](https://www.Alx.com/?grsf=Josiah-AG-ck1wny)
+- 👨🏻‍💻 I am Software Engeneering Graduate of ALX program of Hoblertone School
 - 🌱 I’m currently working on side projects and applying to jobs.
 - 💻 All my projects are available [here.](https://github.com/Josiah-AG?tab=repositories)
 - ✨ Interests: coding, reading books, Learning Language.
